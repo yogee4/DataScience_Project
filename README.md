@@ -1,6 +1,6 @@
 # Data Science Project: Credit Card Fraud Detection
 
-![]()
+![](https://github.com/yogee4/DataScience_Project/blob/main/logo.png)
 
 ## Introduction
 
