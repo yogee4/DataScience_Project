@@ -2,6 +2,10 @@
 
 ![](https://github.com/yogee4/DataScience_Project/blob/main/logo.png)
 
+## What is Credit Card Fraud Detection?
+
+Credit card fraud detection is a critical application of machine learning that uses algorithms to identify and prevent unauthorized transactions. Machine learning models can analyze patterns in transaction data, such as purchase amounts, locations, and times, to detect anomalies that may indicate fraudulent activity.
+
 ## Introduction
 
 Credit card fraud detection is crucial for financial institutions to safeguard customers from unauthorized transactions. This project utilizes machine learning models to detect fraudulent transactions using a European cardholder transactions dataset. Given the high imbalance in the dataset, specialized preprocessing and evaluation techniques were employed to ensure the effectiveness of the models.
