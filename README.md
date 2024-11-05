@@ -11,9 +11,13 @@ Credit card fraud detection is crucial for financial institutions to safeguard c
 *Python Libraries:*
 
 -pandas: For data manipulation and analysis.
+
 -numpy: For numerical computations.
+
 -matplotlib: For data visualization.
+
 -sklearn: For implementing machine learning models and preprocessing.
+
 -tensorflow: For building and training neural network models.
 
 ## Tools:
